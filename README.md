@@ -281,6 +281,24 @@ npm run build
 
 ---
 
+## Architecture Summary
+
+Your Terraform manages:
+
+```
+Terraform Configuration
+    ├── S3 Buckets (Frontend + Memory)
+    ├── Lambda Function with IAM Role
+    ├── API Gateway with Routes
+    ├── CloudFront Distribution
+    └── Optional: Route 53 + ACM Certificate
+
+Managed via Workspaces:
+    ├── dev/   (Development environment)
+    ├── test/  (Testing environment)
+    └── prod/  (Production with custom domain)
+```
+
 ## 🛣️ Future Enhancements
 
 - 🔄 Vector database (RAG integration)
