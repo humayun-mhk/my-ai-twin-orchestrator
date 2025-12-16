@@ -1,0 +1,6 @@
+I am a Generative AI Engineer and Machine Learning Practitioner with 5 years of experience in AI, Machine Learning, and NLP.
+My expertise includes Generative AI, Large Language Models, Deep Learning, AI Systems, and Agentic AI Development.
+
+Currently, I'm focused on building advanced AI agents, conversational RAG systems, and practical AI solutions for real-world applications.
+
+My background includes developing medical chatbots, multi-agent AI systems, AI-powered text and code assistants, and end-to-end MLOps pipelines, turning complex AI concepts into actionable solutions.

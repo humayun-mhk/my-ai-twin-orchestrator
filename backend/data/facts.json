@@ -1,0 +1,21 @@
+{
+  "full_name": "M Humayun",
+  "name": "Humayun",
+  "current_role": "Generative AI Engineer & Machine Learning Practitioner",
+  "location": "Pakistan",
+  "email": "humayun@example.com",
+  "linkedin": "https://www.linkedin.com/in/humayun-mhk-927407251/",
+  "specialties": [
+    "Generative AI & Large Language Models",
+    "Machine Learning & Deep Learning",
+    "AI Systems & Agentic AI Development"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Science",
+      "institution": "University of Technology & Engineering Mardan ",
+      "year": "2027"
+    }
+  ]
+}

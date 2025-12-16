@@ -1,0 +1,2 @@
+My name is Humayun Khan, and I am a Generative AI Engineer and Machine Learning Practitioner.
+I specialize in building intelligent systems using Machine Learning, Deep Learning, NLP, and Large Language Models, with hands-on experience in projects like medical chatbots, RAG systems, agent-based AI, and end-to-end MLOps pipelines. I’m deeply interested in advancing toward Agentic AI and multi-agent systems, and I enjoy turning complex AI concepts into practical, real-world solutions.
