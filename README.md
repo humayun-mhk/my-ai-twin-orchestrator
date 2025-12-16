@@ -203,6 +203,30 @@ text
 ```
 
 ---
+## Architecture Recap
+
+Your updated architecture:
+
+```
+User Browser
+    ↓ HTTPS
+CloudFront (CDN)
+    ↓ 
+S3 Static Website (Frontend)
+    ↓ HTTPS API Calls
+API Gateway
+    ↓
+Lambda Function (Backend)
+    ↓
+    ├── AWS Bedrock (AI responses)  ← NEW!
+    └── S3 Memory Bucket (persistence)
+```
+
+All services now stay within AWS, providing:
+- Lower latency (no external API calls)
+- Better security (IAM integration)
+- Potential cost savings
+- Unified billing and monitoring
 
 ## ⚙️ Deployment
 
